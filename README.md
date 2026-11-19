@@ -1,4 +1,4 @@
-# ScrapeKit
+# Kumiko
 
 A native desktop media scraper for macOS and Windows, powered by TMDB.
 
